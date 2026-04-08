@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Tusher
+![Black and White Illustrative Linkedin Banner (1)](https://github.com/user-attachments/assets/89182f53-338f-4988-b602-5247d26f46ad)
 
 🎓 B.Sc. Student in Food Engineering
 💻 Passionate Web Developer
