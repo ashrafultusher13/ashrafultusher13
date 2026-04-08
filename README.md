@@ -1,7 +1,9 @@
+![Black and White Illustrative Linkedin Banner (1)](https://github.com/user-attachments/assets/7ce7ef0c-7802-4ba1-9201-c646b8942853)
+
 <h1 align="center">Hi 👋, I'm Ashraful Tusher</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | React Enthusiast</h3>
 
-![Black and White Illustrative Linkedin Banner (1)](https://github.com/user-attachments/assets/7ce7ef0c-7802-4ba1-9201-c646b8942853)
+
 
 
 ---
