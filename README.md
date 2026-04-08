@@ -1,11 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ashraful Tusher</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 👋 Hi, I'm Tusher
 
-- 📫 How to reach me **ashrafultusher703@gmail.com**
+🎓 B.Sc. Student in Food Engineering
+💻 Passionate Web Developer
+🚀 Learning & Building with Modern Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🌟 About Me
+
+* 🌱 Currently learning **Web Development**
+* 🔭 Working on **React Projects**
+* 🎯 Goal: Become a **Full Stack Developer**
+* ⚡ Fun fact: I love combining **technology + creativity**
+
+---
+
+## 🛠️ Tech Stack
+
+💻 **Frontend**
+
+* HTML5
+* CSS3 / Tailwind CSS
+* JavaScript (ES6+)
+* React.js
+
+⚙️ **Tools & Libraries**
+
+* Git & GitHub
+* DaisyUI
+* React Toastify
+
+---
+
+## 📊 GitHub Stats
+
+![Tusher's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+## 💡 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 DigiTools Platform – A collection of premium digital tools
+🔹 React Apps – Interactive UI-based projects
+🔹 More coming soon...
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: ashrafultusher703@gmail.com
+---
+
+## 🧠 Quote I Believe In
+
+> "Consistency beats talent when talent doesn't work hard."
+
+---
+
+⭐️ From [Tusher](https://github.com/ashrafultusher13)
