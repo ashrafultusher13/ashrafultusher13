@@ -1,73 +1,73 @@
-# 👋 Hi, I'm Tusher
-![Black and White Illustrative Linkedin Banner (1)](https://github.com/user-attachments/assets/89182f53-338f-4988-b602-5247d26f46ad)
-
-🎓 B.Sc. Student in Food Engineering
-💻 Passionate Web Developer
-🚀 Learning & Building with Modern Technologies
+<h1 align="center">Hi 👋, I'm Ashraful Tusher</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | React Enthusiast</h3>
 
 ---
 
-## 🌟 About Me
-
-* 🌱 Currently learning **Web Development**
-* 🔭 Working on **React Projects**
-* 🎯 Goal: Become a **Full Stack Developer**
-* ⚡ Fun fact: I love combining **technology + creativity**
-
----
-
-## 🛠️ Tech Stack
-
-💻 **Frontend**
-
-* HTML5
-* CSS3 / Tailwind CSS
-* JavaScript (ES6+)
-* React.js
-
-⚙️ **Tools & Libraries**
-
-* Git & GitHub
-* DaisyUI
-* React Toastify
+## 🧑‍💻 About Me
+- 🎓 I am a student passionate about technology  
+- 🌱 Currently learning **Web Development**  
+- 🎯 Goal: Become a **Full Stack Developer**  
+- ⚡ Fun fact: I can spend hours debugging and still enjoy the process 😄  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
-![Tusher's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
-
----
-
-## 💡 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Project
 
-🔹 DigiTools Platform – A collection of premium digital tools
-🔹 React Apps – Interactive UI-based projects
-🔹 More coming soon...
+### 🍔 TastyRoute
+🔗 https://tastyroute.netlify.app/
 
----
+> A modern food delivery website with clean UI and smooth user experience.
 
-## 🌐 Connect With Me
-
-* 📧 Email: ashrafultusher703@gmail.com
----
-
-## 🧠 Quote I Believe In
-
-> "Consistency beats talent when talent doesn't work hard."
+✨ Features:
+- Responsive design  
+- Interactive UI  
+- Fast performance  
 
 ---
 
-⭐️ From [Tusher](https://github.com/ashrafultusher13)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- 🔥 Mastering React  
+- 🌍 Exploring backend technologies  
+- ⚡ Building real-world projects  
+
+---
+
+## 💡 Quote I Believe In
+> "Code. Break. Fix. Learn. Repeat."
+
+---
+
+## 📫 Connect With Me
+*(Coming Soon...)*
+
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile! Let's build something amazing together.
+</p>
